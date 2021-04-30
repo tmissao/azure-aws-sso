@@ -14,29 +14,14 @@ role_groups = {
 }
 
 squad_groups = {
-  "growth" = {
-    "name" = "Growth"
+  "marketing" = {
+    "name" = "Marketing"
   },
-  "plataforma" = {
-    "name" = "Plataforma"
+  "sales" = {
+    "name" = "saless"
   },
-  "objeto-avaliativo" = {
-    "name" = "Objeto de Aprendizagem"
-  },
-  "objeto-aprendizagem" = {
-    "name" = "Objeto de Aprendizagem"
-  },
-  "secretaria-financeiro" = {
-    "name" = "Secretária/Financeiro"
-  },
-  "comunicacao-engajamento" = {
-    "name" = "Comunicação/Engajamento"
-  },
-  "legacy" = {
-    "name" = "Legacy"
-  },
-  "armagedon" = {
-    "name" = "Armagedon"
+  "business" = {
+    "name" = "Business"
   },
   "devops" = {
     "name" = "Devops"

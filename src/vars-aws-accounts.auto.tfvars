@@ -27,19 +27,19 @@ aws_permissions_sets = {
 }
 
 aws_accounts_permissions = {
-  "976269514007" = {
+  "19987514194" = {
     "admins"       = "administrator"
     "tech_leaders" = "poweruser"
     "developers"   = "readonly"
     "readers"      = "readonly"
   },
-  "486300737953" = {
+  "1191587168432" = {
     "admins"       = "administrator"
     "tech_leaders" = "poweruser"
     "developers"   = "poweruser"
     "readers"      = "readonly"
   }
-  "887526423960" = {
+  "13216842425" = {
     "admins"       = "administrator"
     "tech_leaders" = "readonly"
     "developers"   = "readonly"
